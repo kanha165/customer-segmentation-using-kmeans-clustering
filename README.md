@@ -26,16 +26,14 @@ The main objective of this project is to:
 ---
 
 ## 📂 Project Structure
-
-
-
-
-
-
-
-
-
-
+customer-segmentation-using-kmeans-clustering
+│
+├── Mall_Customers.csv       ✅ Dataset
+├── train_model.ipynb        ✅ Training notebook
+├── test_model.ipynb         ✅ Testing / Prediction notebook
+├── kmeans_model.pkl         ✅ Trained model
+├── scaler.pkl               ✅ Trained scaler
+└── README.md                ✅ Project documentation (main dunga)
 
 
 ---
